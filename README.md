@@ -7,7 +7,7 @@ This is the backend code that is used to retrieve ecommerce data.
 Make sure that you have installed MySQL and Node.js onto your machine before proceeding.
 
 ### Node Dependencies
-To install, navigate to the root folder and run npm install
+Navigate to the Develop folder and run npm install. This will install all necessary dependencies for the code. For usage instructions, please see video below.
 
 ## Video Demonstration
 Coming soon
